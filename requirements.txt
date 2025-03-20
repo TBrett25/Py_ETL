@@ -1,1 +1,12 @@
-# test
+etl-utilities>=0.10.12
+pandas>=2.2.2
+requests>=2.31.0
+pyodbc>=5.0.1
+numpy>=2.0.0
+urllib3>=2.0.6
+python-dateutil>=2.8.2
+matplotlib>=3.8.0
+openpyxl>=3.1.2
+oracledb>=2.0.0
+SQLAlchemy>=2.0.22
+aiohttp>=3.11.9
